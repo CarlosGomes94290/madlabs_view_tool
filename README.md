@@ -21,7 +21,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+,,,ruby
+@copyright = MadlabViewTool::Renderer.copyright 'Mad Labs', 'All rights reserved'
+,,,
 
 ## Development
 
